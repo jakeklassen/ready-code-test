@@ -4,6 +4,8 @@ See instructions at https://gist.github.com/aparrish/691b0301f6737d65b01db9920a6
 
 Written using Flask and Python 3.7.0
 
+Endpoint: https://ready-code-test.herokuapp.com/count
+
 ## Comments
 
 I enjoyed messing with Python having never written it before (maybe in college :thinking:).
