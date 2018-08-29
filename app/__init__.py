@@ -1,6 +1,6 @@
 import csv
 from flask import Flask, jsonify, request
-app = Flask(__name__)
+app = Flask(__name__, static_folder=None)
 
 
 @app.route("/count")
