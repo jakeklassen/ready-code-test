@@ -17,7 +17,7 @@ pycodestyle==2.4.0
 pylint==2.1.1
 requests==2.31.0
 six==1.11.0
-urllib3==1.26.17
+urllib3==1.26.18
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 Werkzeug==2.2.3
